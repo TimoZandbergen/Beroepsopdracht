@@ -1,0 +1,10 @@
+print("hello you ik ben Timo Zandbergen")
+username = input("Wie ben jij? :")  
+print("hallo",username)
+
+print("Hoe oud ben ik?")
+leeftijd = input("A= 15 B= 16 C= 17 :")
+print("Waar kom ik vandaan?")
+plaats = input("A= Beverwijk B= Amsterdam C= Haarlem :")
+print("Wat is mijn afkomst?")
+afkomst = input("A= Nederlands indisch B= Nederland C= Indonesië :")
